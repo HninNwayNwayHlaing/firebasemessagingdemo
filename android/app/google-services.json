@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "103860770479",
+    "firebase_url": "https://fir-messagingdemo-68eb6.firebaseio.com",
+    "project_id": "fir-messagingdemo-68eb6",
+    "storage_bucket": "fir-messagingdemo-68eb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103860770479:android:deef539aa1ec0d96",
+        "android_client_info": {
+          "package_name": "com.pixeldirects.firebasemessagingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103860770479-ujateum6gfi1m3jh1rsp4hk3eniq2jku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDciCzt3xtnbe5Z6EWQug013iQPxi4tTrw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
